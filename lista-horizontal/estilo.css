@@ -1,0 +1,41 @@
+ul#menu {
+    padding: 0;
+}
+    
+ul#menu li {
+    display: inline;
+}
+    
+ul#menu li {
+    padding: 10px 20px;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li:hover{
+    background-color: blue;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.pizza{
+    background-color: orange;
+}
+
+.hotdog{
+    background-color: red;
+}
+
+.hamburger{
+    background-color: brown;
+}
+
+.lasanha{
+    background-color: gold;
+}
+
+.onion-rings{
+    background-color: darkkhaki;
+}
